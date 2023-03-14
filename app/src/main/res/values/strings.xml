@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="usser">Usuario</string>
+    <string name="save">Guardar</string>
+</resources>
